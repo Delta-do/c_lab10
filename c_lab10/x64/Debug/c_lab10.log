@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\smole\source\repos\c_lab10\c_lab10\Source.c(101,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\smole\source\repos\c_lab10\c_lab10\Source.c(102,9): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  c_lab10.vcxproj -> C:\Users\smole\source\repos\c_lab10\x64\Debug\c_lab10.exe
